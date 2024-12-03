@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="#" target="_blank">
-  <img src="svg/knganluong.svg" width="1200" alt="knganluong-official" />
+  <!-- <img src="svg/knganluong.svg" width="1200" alt="knganluong-official" /> -->
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
