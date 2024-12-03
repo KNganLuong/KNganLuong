@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I'm Kim-Ngan. I am Front End Developper. Nice to meet you 👋
+
 <a href="#" target="_blank">
   <!-- <img src="svg/knganluong.svg" width="1200" alt="knganluong-official" /> -->
 </a>
