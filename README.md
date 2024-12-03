@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<h2 style="color:green" align="center" >🚀 Here is Kim-Ngan into the IT world. I am a Front-End Developer passionate about creating interactive and user-friendly web applications. Nice to meet you! 😊</h2>
+<h2 style="color:green" align="center" >🚀 Here is Kim-Ngan into the IT world. </h2>
+<span> I am a Front-End Developer passionate about creating interactive and user-friendly web applications. </span>
+ <span>Nice to meet you! 😊</span>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
